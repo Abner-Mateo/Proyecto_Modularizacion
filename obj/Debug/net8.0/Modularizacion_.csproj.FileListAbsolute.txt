@@ -1,0 +1,14 @@
+C:\Progra-ejercicos\Modularizacion_\Modularizacion_\bin\Debug\net8.0\Modularizacion_.exe
+C:\Progra-ejercicos\Modularizacion_\Modularizacion_\bin\Debug\net8.0\Modularizacion_.deps.json
+C:\Progra-ejercicos\Modularizacion_\Modularizacion_\bin\Debug\net8.0\Modularizacion_.runtimeconfig.json
+C:\Progra-ejercicos\Modularizacion_\Modularizacion_\bin\Debug\net8.0\Modularizacion_.dll
+C:\Progra-ejercicos\Modularizacion_\Modularizacion_\bin\Debug\net8.0\Modularizacion_.pdb
+C:\Progra-ejercicos\Modularizacion_\Modularizacion_\obj\Debug\net8.0\Modularizacion_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Progra-ejercicos\Modularizacion_\Modularizacion_\obj\Debug\net8.0\Modularizacion_.AssemblyInfoInputs.cache
+C:\Progra-ejercicos\Modularizacion_\Modularizacion_\obj\Debug\net8.0\Modularizacion_.AssemblyInfo.cs
+C:\Progra-ejercicos\Modularizacion_\Modularizacion_\obj\Debug\net8.0\Modularizacion_.csproj.CoreCompileInputs.cache
+C:\Progra-ejercicos\Modularizacion_\Modularizacion_\obj\Debug\net8.0\Modularizacion_.dll
+C:\Progra-ejercicos\Modularizacion_\Modularizacion_\obj\Debug\net8.0\refint\Modularizacion_.dll
+C:\Progra-ejercicos\Modularizacion_\Modularizacion_\obj\Debug\net8.0\Modularizacion_.pdb
+C:\Progra-ejercicos\Modularizacion_\Modularizacion_\obj\Debug\net8.0\Modularizacion_.genruntimeconfig.cache
+C:\Progra-ejercicos\Modularizacion_\Modularizacion_\obj\Debug\net8.0\ref\Modularizacion_.dll
